@@ -2,7 +2,7 @@
 
 # 🗣️ Participate in [community discussions](https://github.com/UNICEF-Ventures/Community/discussions)💬
 
-#Community Guidelines
+# Community Guidelines
 Welcome to the UNICEF Ventures Community! This space is designed to foster collaboration, innovation, and knowledge sharing among UNICEF Venture Fund alumni companies. By participating in this community, you agree to follow these guidelines to ensure a productive and respectful environment for all members.
 
 ## Before participating
