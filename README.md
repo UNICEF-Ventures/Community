@@ -1,8 +1,5 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-
-# 🗣️Before participating in our [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please read our [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)💬
-
-# The UNICEF Venture Fund Pledge Community Platform
+# Introducing the UNICEF Venture Fund Pledge Community Platform
 Welcome to the UNICEF Venture Fund Pledge Community! This **platform is designed to foster exclusive collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
 
 Here, you will have the opportunity to: 
@@ -46,6 +43,8 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
   * Share your success stories and greatest achievements with the Pledge Community. Show us pictures, videos, products or websites so we can celebrate your achievements together!
  
 **We strongly encourage you all to actively engage within this community. Use this unique chance to network, learn and make the next step**
+
+# 🗣️Before participating in our 💬 [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please also read our 🤝 [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and ⚖️ [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)
 
 # Community Guidelines
 By participating in this community, you agree to follow these guidelines to ensure a productive and respectful environment for all members.
