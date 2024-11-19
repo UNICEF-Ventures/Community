@@ -20,7 +20,7 @@ The platform consists of 2 main sections **Code** and **Discussions**. Read the 
 
 ### <> Code
 This section will provide you with general information about the platform as well as the Pledge Community. It includes: 
-* **"README"**, which provides a brief introduction of the platform purpose setup and guidelines
+* [Read Me](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/README.md), which provides a brief introduction of the platform purpose setup and guidelines
 * [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), which summarizes the purpose of the Pledge Community as well as the responsibility of the Pledge Community Members
 * [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md), which defines the dos and don'ts of engaging in this platform
 
