@@ -44,8 +44,8 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
  
 **We strongly encourage you all to actively engage within this community. Use this unique chance to network, learn and make the next step**
 
-# |🗣️Before participating in our 💬 [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please also read our 🤝 [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and ⚖️ [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)|
-|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|🗣️Before participating in our 💬 [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please also read our 🤝 [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and ⚖️ [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)|
+|-------------------------------------------------------------------------------------------------------------------------------------|
 
 # Community Guidelines
 By participating in this community, you agree to follow these guidelines to ensure a productive and respectful environment for all members.
