@@ -36,14 +36,14 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
   * Use this section to initiate exchanges with the Pledge Members you are intereted in 
 * 🎓 **[Knowledeg Resources](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/knowledge-resources)**
   * This section is ever evolving and includes important knowledge pieces curated or created by the Venture Fund. Use these knowledge pieces at your own demand to develop your and your team's capabilities
-<!--* 💡 **Ideas**
-  * Share new ideas in with the Pledge Community or the Venture Fund
-* 🗳️ **Polls**
-  * Create polls to find the right peers for your challenges, test ideas and collaborate -->
 * 🙏 **[Q&A with the Venture Fund](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/q-a-with-the-venture-fund)**
   * Don't hesitate to ask us questions
 * 🙌 **[Show and Tell](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/show-and-tell)**
   * Share your success stories and greatest achievements with the Pledge Community. Show us pictures, videos, products or websites so we can celebrate your achievements together!
+<!--* 💡 **Ideas**
+  * Share new ideas in with the Pledge Community or the Venture Fund
+* 🗳️ **Polls**
+  * Create polls to find the right peers for your challenges, test ideas and collaborate -->
  
 **We strongly encourage you all to actively engage within this community. Use this unique chance to network, learn and make the next step**
 
