@@ -1,5 +1,5 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
-# Introducing the UNICEF Venture Fund Pledge Community Platform
+# 🙋‍♂️ Introducing the UNICEF Venture Fund Pledge Community Platform 🙋‍♂️
 Welcome to the UNICEF Venture Fund Pledge Community! This **platform is designed to foster exclusive collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
 
 Here, you will have the opportunity to: 
@@ -49,6 +49,8 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
 
 |🗣️Before participating in our 💬 [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please also read our 🤝 [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and ⚖️ [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)|
 |-------------------------------------------------------------------------------------------------------------------------------------|
+
+---
 
 # Community Guidelines
 By participating in this community, you agree to follow these guidelines to ensure a productive and respectful environment for all members.
