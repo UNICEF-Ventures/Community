@@ -29,7 +29,7 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
   * Be up-to-date and know about the most relevant and recent announcements made by the Venture Fund or your Pledge Community Peers. Feel free to make important announcements that can benefit your valuable peers within the Pledge Community
 * 🗃️ **Company Profiles**
   * Look at what your peers do, what they can help you with and what they need help with
-* 🎓 **Knowledeg Documents**
+* 🎓 **Knowledeg Resources**
   * This section is ever evolving and includes important knowledge pieces curated or created by the Venture Fund. Use these knowledge pieces at your own demand to develop your and your team's capabilities.
 * 💬 **General**
   * Start conversations and connect with new founders
