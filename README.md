@@ -34,7 +34,7 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
 * 💬 **[Discussion Forum](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/discussion-forum)**
   * Start conversations and connect with new founders
   * Use this section to initiate exchanges with the Pledge Members you are intereted in 
-* 🎓 **[Knowledeg Resources](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/knowledge-resources)**
+* 🎓 **[Knowledge Resources](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/knowledge-resources)**
   * This section is ever evolving and includes important knowledge pieces curated or created by the Venture Fund. Use these knowledge pieces at your own demand to develop your and your team's capabilities
 * 🙏 **[Q&A with the Venture Fund](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/q-a-with-the-venture-fund)**
   * Don't hesitate to ask us questions
