@@ -52,6 +52,14 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
 
 ---
 
+<div align = "center">
+<a href="https://form.jotform.com/243263991318058">
+  <img src="https://img.shields.io/badge/Click%20here%20to%20Donate-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA" width="400"/>
+</a>
+</div>
+
+---
+
 # Community Guidelines
 By participating in this community, you agree to follow these guidelines to ensure a productive and respectful environment for all members.
 By engaging or participating in the repository/discussions, you agree to abide by our code of conduct. Please read our [CoC]().
