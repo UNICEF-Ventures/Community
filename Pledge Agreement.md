@@ -24,8 +24,7 @@ Once a donation has been made, Pledge Members become a “Pledge Member and Dono
 * **_In-kind contributions where the Member:_**
     * Mentors startups in the Venture Fund’s active cohorts, on a specific area of expertise or experience, where this aligns with the Venture Fund’s needs 
     * Holds information/knowledge sessions for the Venture Fund community on a topic relevant to the Venture Fund
-
-
+<br>
 
  
 Besides the give back opportunities, Pledge Members commit to continuously promoting and supporting the Venture Fund within daily operations by:  
