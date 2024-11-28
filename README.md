@@ -3,7 +3,13 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 ---
-# Introducing the UNICEF Venture Fund Pledge Community Platform
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> Introducing the UNICEF Venture Fund Pledge Community Platform </h1>
+    </summary>
+  </ul>
+</div>
 ---
 
 Welcome to the UNICEF Venture Fund Pledge Community! This **platform is designed to foster exclusive collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
