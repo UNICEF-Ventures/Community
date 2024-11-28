@@ -22,8 +22,8 @@ Once a donation has been made, Pledge Members become a “Pledge Member and Dono
     * Donate parts of the proceeds from a sold product or service, e.g., XCapit, a Venture Fund portfolio company, sold a ‘financial freedom and social impact’ focused NFT and donated part of the proceeds to the Venture Fund as the first Alumni to give back  
  
 * **_In-kind contributions where the Member:_**
-    * Volunteers to mentor startups in the Venture Fund’s active cohorts, on a specific area of expertise or experience, where this aligns with the Venture Fund’s needs 
-    * Offers to hold an information/knowledge session for the Venture Fund community on a topic relevant to the Venture Fund 
+    * Mentors startups in the Venture Fund’s active cohorts, on a specific area of expertise or experience, where this aligns with the Venture Fund’s needs 
+    * Holds information/knowledge sessions for the Venture Fund community on a topic relevant to the Venture Fund 
     * Leverages personal resources and influence to champion the Fund’s mission and values (e.g., support Open-source innovation for children, equitable tech solutions in and for developing countries, DPGs, DEI) in personal networks, peer communities and during events
     * Shares external networks and opportunities that can benefit the Venture Fund or its investees   
     * Helps amplify the Venture Fund and its published content, like new calls for applications or thought pieces, on social media  
