@@ -15,7 +15,7 @@ The Pledge Members aim to share a proportion of their financial success over tim
 Once a donation has been made, Pledge Members become a “Pledge Member and Donor”. If the ability to provide financial contributions is limited, in-kind contributions can also provide value in the meantime.  
 
 **_Give back opportunities could include, but are not limited to:_**
-* **_Financial donations to the Venture Fund_** (up to the total financial contribution received by the Venture Fund as part of their seed-stage and/or growth-stage funding program). Donations can be made at any time, or may be triggered by:
+* **_[Financial donations to the Venture Fund](https://form.jotform.com/243263991318058)_** (up to the total financial contribution received by the Venture Fund as part of their seed-stage and/or growth-stage funding program). Donations can be made at any time, or may be triggered by:
     * A liquidity event, such as a merger or acquisition where the Member team benefits from liquidity. It could also present an opportunity to advocate for a donation to the Venture Fund as part of the acquisition price or terms
     * Reaching a consistent and sustainable revenue stream, and a positive operating profit, for more than 2 years 
     * Capital raising activities (during or after), which is providing liquidity to the Member team (or via the external Investor   
