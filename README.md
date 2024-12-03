@@ -18,7 +18,7 @@ Here, you will have the opportunity to:
 In the following, we will introduce the Pledge Community Platform structure along with brief explanations on how to use the different platform sections
 
 ## Platform Structure
-The platform consists of 2 main sections **Code** and **Discussions**. Read the introduction below and make yourself familiar with each section
+The platform consists of 2 main sections: **Code** and **Discussions**. Read the introduction below and make yourself familiar with each section
 
 ### <> Code
 This section will provide you with general information about the platform as well as the Pledge Community. It includes: 
