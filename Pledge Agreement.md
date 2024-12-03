@@ -22,15 +22,15 @@ Once a donation has been made, Pledge Members become a “Pledge Member and Dono
     * Donate parts of the proceeds from a sold product or service, e.g., XCapit, a Venture Fund portfolio company, sold a ‘financial freedom and social impact’ focused NFT and donated part of the proceeds to the Venture Fund as the first Alumni to give back  
  
 * **_In-kind contributions where the Member:_**
-    * Mentors startups in the Venture Fund’s active cohorts, on a specific area of expertise or experience, where this aligns with the Venture Fund’s needs 
-    * Holds information/knowledge sessions for the Venture Fund community on a topic relevant to the Venture Fund
+    * **Mentors startups** in the Venture Fund’s active cohorts, on a specific area of expertise or experience, where this aligns with the Venture Fund’s needs 
+    * **Holds information/knowledge sessions** for the Venture Fund or Pledge Community on a relevant topic
 <br>
 
  
 Besides the give back opportunities, Pledge Members commit to continuously promoting and supporting the Venture Fund within daily operations by:  
-* Championing the Fund’s mission and values (e.g., support Open-source innovation for children, equitable tech solutions in and for developing countries, DPGs, DEI) in personal networks, peer communities and during events
-* Sharing external networks and opportunities that can benefit the Venture Fund or its investees   
-* Helping amplify the Venture Fund and its published content, like new calls for applications or thought pieces, on social media  
+* **Championing the Fund’s mission and values** (e.g., support Open-source innovation for children, equitable tech solutions in and for developing countries, DPGs, DEI) in personal networks, peer communities and during events
+* **Sharing external networks and opportunities** that can benefit the Venture Fund or its investees   
+* **Helping amplify the Venture Fund** and its published content, like new calls for applications or thought pieces, on social media  
 
 ### Venture Fund's Mission
 UNICEF Venture Fund will publish a list of Pledge signatories, promoting their commitment to positive impact and wider alignment with the Venture Fund on the Fund’s webpage and social media.
