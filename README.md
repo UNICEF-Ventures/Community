@@ -62,6 +62,8 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
 |🗣️Before participating in our 💬 [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please also read our 🤝 [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and ⚖️ [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)|
 |-------------------------------------------------------------------------------------------------------------------------------------|
 
+<br>
+
 **Other forms of contact**
 * Please be reminded that the Pledge Community WhatsApp Group will still be available and used as a quick form of commmunication. 
 * In case of any other questions, you may also contact us via venturefund@unicef.org
