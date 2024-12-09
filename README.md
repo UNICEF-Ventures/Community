@@ -5,7 +5,8 @@
 # Introducing The UNICEF Venture Fund Pledge Community Platform
 
 
-Welcome to the UNICEF Venture Fund Pledge Community! This **platform is designed to foster collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
+Welcome to the UNICEF Venture Fund Pledge Community!
+This **platform is designed to foster collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
 
 Here, you will have the opportunity to: 
 * Get to know your fellow Pledge Community Members
