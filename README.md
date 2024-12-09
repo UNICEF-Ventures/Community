@@ -15,7 +15,8 @@ Here, you will have the opportunity to:
 * Develop capabilities with knowledge materials
 * Hear about news and events around the Venture Fund and Pledge Community
 
-In the sections below, you can learn more about the Pledge Community Platform structure along with brief explanations on how to use the different platform sections
+In the sections below, you can learn more about the Pledge Community Platform structure along with brief explanations on how to use the different platform sections.
+
 
 ## Platform Structure
 The platform consists of 2 main sections: **Code** and **Discussions**.
@@ -60,6 +61,9 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
 
 |🗣️Before participating in our 💬 [Community Discussions](https://github.com/UNICEF-Ventures/Community/discussions), please also read our 🤝 [Pledge Agreement](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/Pledge%20Agreement.md), and ⚖️ [Code of Conduct](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/blob/main/CODE_OF_CONDUCT.md)|
 |-------------------------------------------------------------------------------------------------------------------------------------|
+
+Please be reminded that the ![image](https://github.com/user-attachments/assets/a2864440-b99b-44fa-aaf5-c4c53ba5f238) Pledge Community WhatsApp Group will still be available and used as a quick form of commmunication. 
+In case of any other questions, you may also contact us via venturefund@unicef.org
 
 ---
 
