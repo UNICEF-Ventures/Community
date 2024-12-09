@@ -2,10 +2,10 @@
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
-# Introducing the UNICEF Venture Fund Pledge Community Platform
+# Introducing The UNICEF Venture Fund Pledge Community Platform
 
 
-Welcome to the UNICEF Venture Fund Pledge Community! This **platform is designed to foster exclusive collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
+Welcome to the UNICEF Venture Fund Pledge Community! This **platform is designed to foster collaboration, innovation, and knowledge sharing** among the Venture Fund pledge community members.
 
 Here, you will have the opportunity to: 
 * Get to know your fellow Pledge Community Members
@@ -15,10 +15,10 @@ Here, you will have the opportunity to:
 * Develop capabilities with knowledge materials
 * Hear about news and events around the Venture Fund and Pledge Community
 
-In the following, we will introduce the Pledge Community Platform structure along with brief explanations on how to use the different platform sections
+In the sections below, you can learn more about the Pledge Community Platform structure along with brief explanations on how to use the different platform sections
 
 ## Platform Structure
-The platform consists of 2 main sections: **Code** and **Discussions**. Read the introduction below and make yourself familiar with each section
+The platform consists of 2 main sections: **Code** and **Discussions**.
 
 ### <> Code
 This section will provide you with general information about the platform as well as the Pledge Community. It includes: 
@@ -40,8 +40,8 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
   * If you have any updates to your profile, please makes sure to <ins>comment</ins> these updates under your company profile so that they can be integrated 
 * 💬 **[Discussion Forum](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/discussion-forum)**
   * Start conversations and connect with new founders
-  * Use this section to initiate exchanges with the Pledge Members you are intereted in
-  * Intiate discussions around topics you would like others' opinion on 
+  * Use this section to initiate exchanges with the Pledge Members you are interested in
+  * Initiate discussions around topics you would like others' opinion on 
 * 🎓 **[Knowledge Resources](https://github.com/UNICEF-Ventures/VF-Alumni-Pledge/discussions/categories/knowledge-resources)**
   * This section is ever evolving and includes important knowledge pieces curated or created by the Venture Fund <ins>**only**</ins> (please do not upload anything to this section yourself).
   * Use these knowledge pieces at your own demand to develop your and your team's capabilities
