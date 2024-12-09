@@ -65,7 +65,7 @@ Use this chance to get valuable insights from your fellow pledgees and leverage 
 <br>
 
 **Other forms of contact:**
-* Please be reminded that the Pledge Community WhatsApp Group will still be available and used as a quick form of commmunication. 
+* Please be reminded that the Pledge Community WhatsApp group will still be available and open for commmunication and quick announcements. 
 * In case of any other questions, you may also contact us via venturefund@unicef.org
 
 ---
